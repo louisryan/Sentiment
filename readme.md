@@ -7,7 +7,7 @@ A statistical analysis of Twitter data to predict the polarity of a tweet(positi
 
 If you don't know what an iPython notebook is, it's a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. It lends itself well to the iterative process that is Data Analysis.
 
-![Logo](https://github.com/louisryan/Sentiment/tree/master/images/wordcloud.png)
+![Logo](https://raw.githubusercontent.com/louisryan/Sentiment/master/images/wordcloud.png)
 
 ### Text Analysis
 
