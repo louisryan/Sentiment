@@ -12,6 +12,9 @@ If you don't know what an iPython notebook is, it's a web-based interactive comp
 
 <img src="https://raw.githubusercontent.com/louisryan/Sentiment/master/images/text_analysis.png" align="middle"/>
 
+<img src="https://raw.githubusercontent.com/louisryan/Sentiment/master/images/wordcloud.png" align="middle"/>
+
+
 ### Text Analysis
 
 In the past number of years, there has been a huge surge in social platforms such as Twitter and Facebook to the point where they are ubiquitous. As more and more companies use Social Media Marketing to promote their brand, it becomes increasingly important for them to evaluate the effectiveness of their campaigns. One such measure is Sentiment Analysis. Sentiment Analysis allows you to determine the polarity of the customer towards particular content, campaigns in real-time and allows you to adjust your strategy accordingly.
