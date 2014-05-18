@@ -3,7 +3,7 @@ A statistical analysis of Twitter data to predict the polarity of a tweet(positi
 
 ----------------------------------
 
-####Click [this link](http://nbviewer.ipython.org/gist/louisryan/d7903c75a59928600982) to view a static version of the iPython notebook.
+####Click [this link](http://nbviewer.ipython.org/gist/louisryan/f12a7bb2d06531e1430f) to view a static version of the iPython notebook.
 
 If you don't know what an iPython notebook is, it's a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. It lends itself well to the iterative process that is Data Analysis.
 
